@@ -1,0 +1,22 @@
+[
+  {
+    "firstName" : "Ravi",
+    "lastname" : "Varma",
+    "age": 29,
+    "address" : [
+      {
+        "city" : "Koilkuntla",
+        "State" : " AP"
+      },
+      {
+       "city" : "Hyd",
+        "State" : "TG" 
+      }
+    ]
+  },
+  {
+    "firstName" : "Sudheer",
+    "lasgtname" : "Varma",
+    "age": 26
+  }
+]
